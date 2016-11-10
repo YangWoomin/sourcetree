@@ -2,4 +2,5 @@
 
 int main(void) {
 	printf("Hello Source Tree\");
+	return 0;
 }
